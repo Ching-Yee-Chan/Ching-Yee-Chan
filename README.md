@@ -18,8 +18,8 @@
 <a href="https://github.com/Ching-Yee-Chan/tmp_compiler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ching-Yee-Chan&repo=tmp_compiler&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
-<a href="https://github.com/Ching-Yee-Chan/MFCC-KNN-autio-scene-calssification-parallel-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ching-Yee-Chan&repo=MFCC-KNN-autio-scene-calssification-parallel-&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+<a href="https://github.com/Ching-Yee-Chan/MFCC-KNN-autio-scene-classification-parallel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ching-Yee-Chan&repo=MFCC-KNN-autio-scene-classification-parallel&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
 ### Something U Might Need
