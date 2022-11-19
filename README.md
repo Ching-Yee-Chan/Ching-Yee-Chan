@@ -10,7 +10,7 @@
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ching-Yee-Chan&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true&hide=jupyter%20notebook&layout=compact&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ching-Yee-Chan&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true&hide=VHDL&layout=compact&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Course Assignments
 
@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ching-Yee-Chan&repo=MFCC-KNN-autio-scene-calssification-parallel-&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
-### Someing U Might Need
+### Something U Might Need
 
 <a href="https://github.com/Ching-Yee-Chan/ucore_os">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ching-Yee-Chan&repo=ucore_os&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
