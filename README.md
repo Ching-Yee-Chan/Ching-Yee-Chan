@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a student in Nankai University
-- 🌱 I’m currently conducting research on 3D scene manipulation
+- 🌱 I’m currently conducting research on 3D scene understanding
 - 👯 I’m eager for opportunities to collaborate with U!
 - ✨ Sidere mens eadem mutato | 繁星縱變，智慧永恆
 
