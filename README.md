@@ -1,10 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently a student in Nankai University
-- 🌱 I’m currently conducting research on 3D scene understanding
-- 👯 I’m eager for opportunities to collaborate with U!
-- ✨ Sidere mens eadem mutato | 繁星縱變，智慧永恆
-
 ### GitHub stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ching-Yee-Chan&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
